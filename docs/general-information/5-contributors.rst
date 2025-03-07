@@ -93,6 +93,12 @@ People who contributed to ProteoBench, in alphabetical order:
     *Department of Proteomics and Signaltransduction, Max-Planck-Institute of Biochemistry, Martinsried, Germany*
 
 .. line-block::
+    **An Staes**
+    *Department of Biomolecular Medicine, Ghent University, Ghent, Belgium*
+    *VIB - UGent Center for Medical Biotechnology, VIB, Ghent, Belgium*
+    *VIB Proteomics Core, VIB, Ghent, Belgium*
+
+.. line-block::
     **Julian Uszkoreit**
     *Ruhr University Bochum, Medical Faculty, Medical Bioinformatics, Bochum, Germany*
 
